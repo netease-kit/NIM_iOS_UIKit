@@ -1,4 +1,4 @@
-// podspec 配置文件，用于源码依赖时统一配置
+# podspec 配置文件，用于源码依赖时统一配置
 
 module YXConfig
   def self.imuikit_version
